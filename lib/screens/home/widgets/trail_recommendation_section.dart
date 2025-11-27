@@ -5,6 +5,7 @@ import 'package:sannavi/widgets/info_chip.dart';
 class TrailRecommendationSection extends StatelessWidget {
   const TrailRecommendationSection({super.key});
 
+  // 실제 앱에서는 외부에서 데이터를 주입받습니다.
   final List<Map<String, String>> _recommendedCourses = const [
     {
       'name': '설악산 공룡능선 코스',

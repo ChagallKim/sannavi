@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:sannavi/screens/root/root_screen.dart';
 
+/// 전체 앱의 루트 위젯. MaterialApp을 정의합니다.
 class ParkMateApp extends StatelessWidget {
   const ParkMateApp({super.key});
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511844645852",
+    "project_id": "sannabi-4115d",
+    "storage_bucket": "sannabi-4115d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511844645852:android:c501a1a0474d225517ed19",
+        "android_client_info": {
+          "package_name": "com.example.sannavi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511844645852-jm7brob480ppkmqumb55i23af8qh9dg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7X52Ag6_D4nfgvVfpKUa2wiOZMY0yjCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511844645852-jm7brob480ppkmqumb55i23af8qh9dg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
